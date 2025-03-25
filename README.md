@@ -7,7 +7,6 @@ Welcome to my GitHub profile. Explore my repositories and let’s connect! 🔐
 ---
 
 ## ⚡ Tech Stack
-**Languages and Tools**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Pentest](https://img.shields.io/badge/-Pentest-1675C5?style=flat&logo=security&logoColor=white)
