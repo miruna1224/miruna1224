@@ -46,9 +46,7 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miruna1224&layout=compact&show_icons=true&hide_title=true)
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=miruna1224&bg_color=ffffff&color=333333&line=00A2FF&point=333333&area=true&hide_border=true)
-
+![Coding Preference](https://img.shields.io/badge/-snake_case-00C853?style=flat&logo=python&logoColor=white) 🐍
 ---
 
 ## 💬 Let’s Connect!
