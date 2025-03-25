@@ -22,7 +22,7 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 
 ### 🔒 **Cybersecurity & Security Projects**
 - [**Malware samples database**](https://github.com/miruna1224/Malware-Samples.git) - A database used to calsify malware in network traffic using machine learning.
-- [**Infected Traffic database**]([https://github.com/miruna1224/cryptohub](https://github.com/miruna1224/Infected_traffic.git)) - A database used to identify clean traffic from infected traffic (with malware) in network traffic filtering using machine learning.
+- [**Infected Traffic database**](https://github.com/miruna1224/Infected_traffic.git) - A database used to identify clean traffic from infected traffic (with malware) in network traffic filtering using machine learning.
 
 ### 🖥️ **Software Development**
 - [**Mini CTF**](https://github.com/miruna1224/mini-ctf) - Web project to simulate a platform used for CTF competitions.
@@ -35,7 +35,15 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 - [**Bison Python Parser**](https://github.com/miruna1224/PythonBisonParser.git) - An implementation of some capabilities of a Bison Parser for Python.
 
 ---
+### 🎮 **My Game Projects**
+- [**Tic Tac Toe**](https://github.com/miruna1224/tic-tac-toe): A basic stylish Tic Tac Toe game that tracks the score. Play against friends or the computer!
+- [**Snake Game**](https://github.com/miruna1224/snake-game): A Snake Game made entirely with C blocks. Challenge yourself and avoid hitting the walls!
+------
 
+### 🚀 **Projects I’m Working On**
+- [**Crypto Games**](https://github.com/miruna1224/CriptoGames.git) - A Project mean for Cryptology enthusiats that want to have fun.
+- [**Network Traffic Classification**]
+---
 
 ## 📊 GitHub Stats
 
