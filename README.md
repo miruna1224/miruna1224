@@ -7,11 +7,12 @@ Welcome to my GitHub profile. Explore my repositories and let’s connect! 🔐
 ---
 
 ## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Pentest](https://img.shields.io/badge/-Pentest-1675C5?style=flat&logo=security&logoColor=white)
-![Cryptology](https://img.shields.io/badge/-Cryptology-9B4D96?style=flat&logo=key&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![Pentest](https://img.shields.io/badge/-Pentest-1675C5?style=flat&logo=security&logoColor=white)
+- ![Cryptology](https://img.shields.io/badge/-Cryptology-9B4D96?style=flat&logo=key&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Coding Preference](https://img.shields.io/badge/-snake_case-00C853?style=flat&logo=python&logoColor=white) 🐍
 
 ---
 
@@ -47,7 +48,6 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miruna1224&layout=compact&show_icons=true&hide_title=true)
 
-![Coding Preference](https://img.shields.io/badge/-snake_case-00C853?style=flat&logo=python&logoColor=white) 🐍
 ---
 
 ## 💬 Let’s Connect!
