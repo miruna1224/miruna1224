@@ -21,8 +21,8 @@ Welcome to my GitHub profile. Explore my repositories and let’s connect! 🔐
 Here are some of my interesting repositories. Feel free to explore and contribute!
 
 ### 🔒 **Cybersecurity & Security Projects**
-- [**Ransomware Detection Tool**](https://github.com/miruna1224/ransomware-detection) - A tool to detect ransomware behavior in network traffic using machine learning.
-- [**CryptoHub**](https://github.com/miruna1224/cryptohub) - A Python-based secure cryptocurrency transaction platform.
+- [**Malware samples database**](https://github.com/miruna1224/Malware-Samples.git) - A database used to calsify malware in network traffic using machine learning.
+- [**Infected Traffic database**]([https://github.com/miruna1224/cryptohub](https://github.com/miruna1224/Infected_traffic.git)) - A database used to identify clean traffic from infected traffic (with malware) in network traffic filtering using machine learning.
 
 ### 🖥️ **Software Development**
 - [**Mini CTF**](https://github.com/miruna1224/mini-ctf) - Web project to simulate a platform used for CTF competitions.
@@ -32,20 +32,10 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 ### 💻 **Miscellaneous Projects**
 - [**SchedSimulator**](https://github.com/miruna1224/schedsimulator) - Simulator to evaluate scheduler algorithms like JSF, Round Robin, FCFS.
 - [**Template Matching**](https://github.com/miruna1224/template-matching) - A project that identifies handwritten digits using template matching on a BMP picture.
+- [**Bison Python Parser**](https://github.com/miruna1224/PythonBisonParser.git) - An implementation of some capabilities of a Bison Parser for Python.
 
 ---
 
-## 🚀 Latest Open Source Contributions
-- **[Awesome Repo 1](https://github.com/awesome-repo)**: Contributed a new feature to improve the performance of the app.
-- **[Open Source Project 2](https://github.com/opensource-project)**: Worked on fixing a critical bug that impacted the stability of the platform.
-
----
-
-## 🧑‍💻 Projects I’m Working On
-- **[Security Analysis Toolkit](https://github.com/miruna1224/security-analysis-toolkit)**: A toolkit for performing security analysis on web applications.
-- **[AI-Driven Threat Detection](https://github.com/miruna1224/ai-driven-threat-detection)**: Using machine learning to identify cyber threats in real-time.
-
----
 
 ## 📊 GitHub Stats
 
@@ -58,14 +48,9 @@ Here are some of my interesting repositories. Feel free to explore and contribut
 - [LinkedIn](https://www.linkedin.com/in/mirunafloroiu/)
 - [GitHub](https://github.com/miruna1224)
 - Email: [floroiumiruna1224@gmail.com](mailto:floroiumiruna1224@gmail.com)
-- [Twitter](https://twitter.com/miruna1224)
 
 ---
 
-## 📜 Certifications
-- **Certified Ethical Hacker (CEH)**
-- **AWS Certified Solutions Architect**
-- **Cisco Certified Network Associate (CCNA)**
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
